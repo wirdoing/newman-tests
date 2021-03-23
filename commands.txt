@@ -1,0 +1,1 @@
+npx newman run 'C:\Users\oscar.campos\Desktop\todoist.postman_collection.json' -e 'C:\Users\oscar.campos\Desktop\todoist.postman_environment.json' -r htmlextra --reporter-htmlextra-export C:\Users\oscar.campos\Desktop\reporter.html
